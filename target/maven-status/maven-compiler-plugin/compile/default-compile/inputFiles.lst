@@ -1,0 +1,17 @@
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\model\FileModel.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\hibernate\HibernateFileRepositoryImpl.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\hibernate\HibernateUserRepositoryImpl.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\utils\HibernateUtilities.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\model\History.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\FileRepository.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\GenericRepository.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\UserRepository.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\HistoryRepository.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\service\FileService.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\service\HistoryService.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\servlet\HistoryServlet.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\model\User.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\service\UserService.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\servlet\UserServlet.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\repository\hibernate\HibernateHistoryRepositoryImpl.java
+C:\Users\sdden\Desktop\Программирование\http\src\main\java\com\denis\http\servlet\FileServlet.java
